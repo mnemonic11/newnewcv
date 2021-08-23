@@ -1,0 +1,124 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Urbanist', sans-serif;
+  color: #40514E;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Rampart One', cursive;
+  font-size: 4rem;
+  color: #66BFBF;
+}
+
+h2 {
+  font-size: 2.5rem;
+  font-weight: normal;
+  color: #66BFBF;
+  padding-bottom: 10px;
+}
+
+h3 {
+  color: #11999E;
+}
+
+p {
+  line-height: 2;
+}
+
+hr {
+  border:dotted #EAF6F6 8px;
+  border-bottom: none;
+  width: 5%;
+  margin: 100px auto;
+}
+
+a {
+  color: #11999E;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+ a:hover {
+   color: #EAF6F6;
+ }
+.headshot {
+  width: 20%;
+  border-radius: 50%;
+  margin: 15px;
+}
+
+.top-container {
+  background-color: #EAF6F6;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+  margin: 100px 0;
+}
+
+.intro {
+  width: 25%;
+  margin: auto;
+}
+.bottom-container {
+  background-color: #66BFBF;
+  padding: 50px 0 1em;
+  margin-top: 100px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 200px;
+  bottom: 300px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 250px;
+  top: 50px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: auto;
+  text-align: left;
+}
+
+.skillz_photo1 {
+  width: 25%;
+  margin-right: 30px;
+  float: left;
+}
+
+.skillz_photo2 {
+  width: 25%;
+  margin-left: 30px;
+  float: right;
+}
+
+.contact-message {
+  width: 25%;
+  margin: 60px auto 40px;
+}
+.copyright {
+  color: #EAF6F6;
+  font-size: .75rem;
+  padding: 20px 0;
+}
+
+.btn {
+	background-color:#66bfbf;
+	border-radius:8px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family: 'Urbanist', sans-serif;
+	font-size:20px;
+	padding:16px 31px;
+	text-decoration:none;
+}
+.btn:hover {
+	background-color:#11999e;
+}
